@@ -6,7 +6,4 @@
 * Grading
 * DMD 100
 * [Instructional roles](instructional-roles.md)
-  * [Instructor](instructor.md)
-  * [Teaching Assistant](teaching-assistant.md)
-  * Lab Assistant
 
