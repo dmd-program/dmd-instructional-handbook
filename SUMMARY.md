@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * About the DMD Program
-* Advising
-* Grading
+* Program Courses
 * [Instructional roles](instructional-roles.md)
+* Grading
+* Advising
 
