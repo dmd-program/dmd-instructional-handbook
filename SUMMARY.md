@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * About the DMD Program
-* Program Courses
+* [Program Courses](program-courses.md)
 * [Instructional roles](instructional-roles.md)
 * Grading
-* Advising
+* [Advising](advising.md)
 
