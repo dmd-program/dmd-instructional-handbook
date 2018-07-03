@@ -6,9 +6,9 @@ Students will be at varying levels of competency with regards to technical and c
 
 ### 1. Technical
 
-1. Please check for spelling and grammar issues and/or ask someone else to proofread.
-2. This story is unfinished, so I am unable to give you much feedback.
-3. Your writing and/or sentence structure is a bit awkward, consider rewriting.
+1. Indicate is there are spelling and grammar issues.
+2. Is the story finished enough for you to provide feedback?
+3. Is writing and/or sentence structure awkward? Recommend rewrites where necessary.
 
 ### 2. Reader engagement
 
@@ -26,7 +26,7 @@ Students will be at varying levels of competency with regards to technical and c
 2. **Research:**
    1. Does it seem like the student did enough research on the subject matter?
    2. Are referenced facts, truths, ideas, proclamations believable and accurate?
-   3. Is the technology or moments of great change explained in enough detail? Some people like to gloss a great moment of change, what should be the climax of the story, as a short moment. When this is done, they often include references to impossible, or fuzzy causes. This is unfortunate because this moment is actually one of reasons the story was asked to be written in the first place — story as a speculative schematic for affecting positive future change.
+   3. Is the technology or moments of great change explained in enough detail? Some people like to gloss over a great moment of change, what should be the climax of the story is represented as a short, vague moment. When this is done, they often include references to impossible technology and fuzzy causal relationships. This is unfortunate because this moment is actually one of reasons the story was asked to be written in the first place — story as a speculative pattern for affecting positive future change.
 
 
 
