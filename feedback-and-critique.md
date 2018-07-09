@@ -2,7 +2,11 @@
 
 ## Hypertext Narrative assignment
 
-Students will be at varying levels of competency with regards to technical and creative writing. In DMD 100, the type of feedback that is given should both reinforce what is being done correctly, what isn't being done correctly along with the specific impact, and prescriptive or suggested advice for changes. Advice can be optional or mandated. Instructional feedback is better written as it can be referenced later on to evaluate if students are interpreting and accounting for feedback. Though the end result is better writing and understanding of concepts, they are also being evaluated on their ability to interpret feedback. The following three categories should help with feedback provisioning, with example feedback.
+Students will be at varying levels of competency with regards to their technical and creative writing. In DMD 100, the type of feedback that is given should both **reinforce** what is being done correctly, highlight the specific **impact of existing writing** choices, and include **advice and rationale** for writing changes. Most of the advice given by instructors and assistants will be optional and at the student's discretion, but can be mandatory when called for. Instructional feedback is better as written text or in a form that can be referenced later. This will help instructors evaluate if students are interpreting and accounting for feedback. 
+
+The resulting outcomes of this project include the development of a story according to a project brief, gaining familiarity and practice with storytelling concepts, and improve understanding and practice feedback interpretation. The lesson topics will introduce the relevant theory and concepts needed to complete the project. Whenever possible, present a link to the lesson topics that cover overlooked story concepts for the student to read.
+
+The following three categories should help with feedback provisioning, with some example concepts and story requirements to focus on:
 
 ### 1. Technical
 
@@ -14,15 +18,15 @@ Students will be at varying levels of competency with regards to technical and c
 
 1. Is the “show, don’t tell principle being used to engage readers?
 2. **Characters:**
-   1. Are the archetypes correct and used well?
+   1. Are there archetypes or tropes that could be used? Are existing ones used well?
    2. Are character tropes used in an interesting way?
-   3. Is there development of character from beginning to end?
+   3. Is there character development from beginning to end?
    4. Are characters too flat, round, etc? Could two characters be merged or a contrast character added?
 3. Did the ending fall short? Is there something \(a joke, foreshadowing, etc.\) that you could set up earlier in the story to reference at the end?
 
 ### 3. Story concept
 
-1. Is the story optimistic about the future and plausible?
+1. Is the story optimistic about the future and plausible? \(This is mandated in the project brief\)
 2. **Research:**
    1. Does it seem like the student did enough research on the subject matter?
    2. Are referenced facts, truths, ideas, proclamations believable and accurate?
