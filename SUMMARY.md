@@ -7,5 +7,5 @@
 * [Grading](grading.md)
 * [Advising](advising.md)
 * [DMD 100 Teaching Schedule](dmd-100.md)
-* [Feedback and critique](feedback-and-critique.md)
+* [Project feedback](project-feedback.md)
 
