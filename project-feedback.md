@@ -34,7 +34,7 @@ The following three categories should help with feedback provisioning, with some
 
 ## Open Design Project
 
-The Open Design project aims to help students think about developing a prototype product with limited financial resources. Students are asked to create a kit of parts from inexpensive materials, and then produce instructions that will allow others to create what they have created. They are essentially creating a product, and knowledge itself.
+The Open Design project aims to help students think about developing a prototype product with limited financial resources. Students are asked to create a kit of parts from inexpensive materials, and then produce instructions that will allow others to create what they have created. Students are creating both a product and new knowledge.
 
 ### 1. Technical
 
