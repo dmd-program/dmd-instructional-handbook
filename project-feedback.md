@@ -40,8 +40,9 @@ The Open Design project aims to help students think about developing a prototype
 
 #### Instructions
 1. Were instructions clear and spellchecked? 
-2. Did they include images, diagrams, and relevant templates?
-3. Is text legible and are all images free of distortion/stretching?
+2. Are instructions thorough enough? **(Most aren't in the first pass)**
+3. Did they include images, diagrams, and relevant templates?
+4. Is text legible and are all images free of distortion/stretching?
 
 #### Parts Kit
 1. Did the student create a reconfigurable kit of parts? Can it be reconfigured into at least three things?
@@ -50,5 +51,4 @@ The Open Design project aims to help students think about developing a prototype
 ### 2. Concept
 1. Did the project take an existing idea and add novel elements to it?
 2. Is the project accomplishable without special skills or training?
-
-
+3. Does the concept reference initial research and project pitch? Are project goals well articulated?
