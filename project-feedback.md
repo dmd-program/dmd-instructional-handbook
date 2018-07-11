@@ -38,7 +38,17 @@ The Open Design project aims to help students think about developing a prototype
 
 ### 1. Technical
 
-1. Did student create a reconfigurable kit of parts?
-2. 
+#### Instructions
+1. Were instructions clear and spellchecked? 
+2. Did they include images, diagrams, and relevant templates?
+3. Is text legible and are all images free of distortion/stretching?
+
+#### Parts Kit
+1. Did the student create a reconfigurable kit of parts? Can it be reconfigured into at least three things?
+2. Did the project rely on readily available or free materials?
+
+### 2. Concept
+1. Did the project take an existing idea and add novel elements to it?
+2. Is the project accomplishable without special skills or training?
 
 
