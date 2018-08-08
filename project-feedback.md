@@ -6,6 +6,8 @@ In this 100 level course, students can be instructed to make specific changes, a
 
 Students should be held accountable to following assignment directions, paying attention to detail, fulfilling the spirit of the assignment, producing their own work, and making changes according to instructor comments.
 
+When a student has not submitted an assignment, a grade of zero should be made, with a note on the assignment that there is "no submission." This alerts the student that they may have accidentally not submitted an assignment, and that they currently have a zero. Withholding a grade obscures possible mistakes that could be corrected sooner rather than later.
+
 ## Hypertext Narrative Project
 
 Students will be at varying levels of competency with regards to their technical and creative writing. In DMD 100, the type of feedback that is given should both **reinforce** what is being done correctly, highlight the specific **impact of existing writing** choices, and include **advice and rationale** for writing changes. Most of the advice given by instructors and assistants will be optional and at the student's discretion, but can be mandatory when called for. Instructional feedback is better as written text or in a form that can be referenced later. This will help instructors evaluate if students are interpreting and accounting for feedback.
