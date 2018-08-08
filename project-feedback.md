@@ -43,6 +43,7 @@ The Open Design project aims to help students think about developing a prototype
 2. Are instructions thorough enough? **(Most aren't in the first pass)**
 3. Did they include images, diagrams, and relevant templates?
 4. Is text legible and are all images free of distortion/stretching?
+5. Is the document free of Copyrighted materials? They are required to create materials they have designed but may pull in CC materials as needed. A significant portion (90%) of the project must be designed by the student.
 
 #### Parts Kit
 1. Did the student create a reconfigurable kit of parts? Can it be reconfigured into at least three things?
