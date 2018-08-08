@@ -1,6 +1,10 @@
 # Feedback and critique
 
-All student projects are imperfect and can be better. All projects, particularly the first project iterations present in the develop steps require thorough analysis and feedback, at great effort from course instructors. In later upper-level courses, students will be given more freedom to make their own decisions when provided with feedback. In this 100 level course, students can be instructed to make specific changes, and are held accountable for making those changes in future submissions. Giving specific advice and direction tests students' ability to interpret feedback and get used to the idea that their best work will rarely occur on their first attempt. Students should be held accountable to following assignment directions, paying attention to detail, fulfilling the spirit of the assignment, producing their own work, and making changes according to instructor comments.
+In DMD100, all student projects are imperfect and can be better. While many of the project assignment submissions are simply a check to see that students are following the process, the first project iterations that occur during the develop steps of the project require thorough analysis and feedback, at great effort from course instructors. Leave yourself plenty of time for grading these submissions. In later upper-level courses, students will be given more freedom to make their own decisions when provided with feedback.
+
+In this 100 level course, students can be instructed to make specific changes, and are held accountable for making those changes in future submissions. Giving specific advice and direction tests students' ability to accept and interpret feedback, familiarizing them with the idea that their best work will rarely occur on their first attempt. In this way, we are causing students to view their work more objectively, rather than encouraging them to form emotional attachments to their ideas. This is an important attitude to instill at this early stage in the program, and will allow for more open-minded ideation later in the curriculum. Most students will not have a problem adjusting to this process, though some may demand explanation.
+
+Students should be held accountable to following assignment directions, paying attention to detail, fulfilling the spirit of the assignment, producing their own work, and making changes according to instructor comments.
 
 ## Hypertext Narrative Project
 
@@ -12,8 +16,8 @@ The following three categories should help with feedback provisioning, with some
 
 ### 1. Technical
 
-1. Indicate is there are spelling and grammar issues.
-2. Is the story finished enough for you to provide feedback?
+1. Indicate when there are spelling and grammar issues.
+2. Determine if the story finished enough for you to provide feedback.
 3. Is writing and/or sentence structure awkward? Recommend rewrites where necessary.
 
 ### 2. Reader engagement
@@ -29,7 +33,8 @@ The following three categories should help with feedback provisioning, with some
 ### 3. Story concept
 
 1. Is the story optimistic about the future and plausible? \(This is mandated in the project brief\)
-2. **Research:**
+2. Does the student have the cultural authority needed to write a particular story? For instance, is the student writing about a foreign peoples or place with little firsthand knowledge, causing them to rely on stereotypes? This is often problematic, and should be pointed out immediately so the student can self-correct.
+3. **Research:**
    1. Does it seem like the student did enough research on the subject matter?
    2. Are referenced facts, truths, ideas, proclamations believable and accurate?
    3. Is the technology or moments of great change explained in enough detail? Some people like to gloss over a great moment of change, what should be the climax of the story is represented as a short, vague moment. When this is done, they often include references to impossible technology and fuzzy causal relationships. This is unfortunate because this moment is actually one of reasons the story was asked to be written in the first place — story as a speculative pattern for affecting positive future change.
