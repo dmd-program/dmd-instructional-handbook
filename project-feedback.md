@@ -57,6 +57,7 @@ The Open Design project aims to help students think about developing a prototype
 #### Parts Kit
 1. Did the student create a reconfigurable kit of parts? Can it be reconfigured into at least three things?
 2. Did the project rely on readily available or free materials?
+3. Was it a weapon? Ask them to redo the project, this violates project requirements.
 
 ### 2. Concept
 1. Did the project take an existing idea and add novel elements to it?
