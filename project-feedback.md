@@ -21,7 +21,7 @@ In DMD100, there are no expectations that students will have any prior creative 
 * Did the student make enough of the screens operational? Does it feel complete?
 * Did the student make a high fidelity prototype instead of the low fidelity prototype that was asked for? If they've used Photoshop to produce rich graphics, they have gone a bit over what was asked.
 
-### 2. Conceptual 
+### 2. Conceptual
 
 * Is the app a todo or calendar app? If so, ask the student to rework their concept, students were asked not to produce these types of ideas in the brief.
 * If the student is struggling, they can create an app that is inspired by the how might we question. This means, it does not have to be a literal response to the question, but perhaps an idea sparked by the question.
