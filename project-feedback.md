@@ -1,12 +1,30 @@
 # Feedback and critique
 
-In DMD100, we assume that all student projects are imperfect and can be better. While many of the project assignment submissions are simply a check to see that students are following the process, the first project iterations that occur during the develop steps of the project require thorough analysis and feedback, at great effort from course instructors. Leave yourself plenty of time for grading these submissions. In later upper-level courses, students will be given more freedom to make their own decisions when provided with feedback. For the students who do wonderful visual and technical work, it may be best to push them on their conceptual skills (to seek more novel ideas) rather than visual and aesthetic production.
+In DMD100, we assume that all student projects are imperfect and can be better. While many of the project assignment submissions are simply a check to see that students are following the process, the first project iterations that occur during the develop steps of the project require thorough analysis and feedback, at great effort from course instructors. Leave yourself plenty of time for grading these submissions. In later upper-level courses, students will be given more freedom to make their own decisions when provided with feedback. For the students who do wonderful visual and technical work, it may be best to push them on their conceptual skills \(to seek more novel ideas\) rather than visual and aesthetic production.
 
 In this 100 level course, students can be instructed to make specific changes, and are held accountable for making those changes in future submissions. Giving specific advice and direction tests students' ability to accept and interpret feedback, familiarizing them with the idea that their best work will rarely occur on their first attempt. In this way, we are causing students to view their work more objectively, rather than encouraging them to form emotional attachments to their ideas. This is an important attitude to instill at this early stage in the program, and will allow for more open-minded ideation later in the curriculum. Most students will not have a problem adjusting to this process, though some may demand explanation.
 
-Students should be held accountable to following assignment directions, paying attention to detail, fulfilling the spirit of the assignment, producing their own work, and making changes according to instructor comments.
+Students should be held accountable to following assignment directions, paying attention to detail, fulfilling the spirit of the assignment, producing their own work, and making changes according to instructor comments. When a student has not submitted an assignment, a grade of zero should be made, with a note on the assignment that there is "no submission." This alerts the student that they may have accidentally not submitted an assignment, and that they currently have a zero. Withholding a grade obscures possible mistakes that could be corrected sooner rather than later.
 
-When a student has not submitted an assignment, a grade of zero should be made, with a note on the assignment that there is "no submission." This alerts the student that they may have accidentally not submitted an assignment, and that they currently have a zero. Withholding a grade obscures possible mistakes that could be corrected sooner rather than later.
+## Ritual Project
+
+In DMD100, there are no expectations that students will have any prior creative software experience. They are expected to be able to use a computer, have the ability to navigate the web, and learn select software where directed. For the Ritual Project, students will be producing an interactive mockup with InvisionApp.com and some provided paper templates. Fortunately, this web application is very easy to learn and already has supporting tutorials. Beyond this tool, they will need to use unzipping tools and cropping tools that are included with their operating system.
+
+### 1. Technical
+
+* Are the "screens" straight, well lit, high enough resolution, and cropped to the correct aspect ratio?
+* Did the student use InvisionApp's hotspot functionality to allow users to navigate?
+* Did they submit the correct files and include change log docs where necessary?
+* Does navigation feel intuitive, or is it overly complex?
+* Can screens be merged together to simplify the app?
+* Does the app have all of the features it should to reinforce the student's ideas?
+* Did the student make enough of the screens operational? Does it feel complete?
+* Did the student make a high fidelity prototype instead of the low fidelity prototype that was asked for? If they've used Photoshop to produce rich graphics, they have gone a bit over what was asked.
+
+### 2. Conceptual 
+
+* Is the app a todo or calendar app? If so, ask the student to rework their concept, students were asked not to produce these types of ideas in the brief.
+* If the student is struggling, they can create an app that is inspired by the how might we question. This means, it does not have to be a literal response to the question, but perhaps an idea sparked by the question.
 
 ## Hypertext Narrative Project
 
@@ -48,18 +66,24 @@ The Open Design project aims to help students think about developing a prototype
 ### 1. Technical
 
 #### Instructions
+
 1. Were instructions clear and spellchecked? 
-2. Are instructions thorough enough? **(Most aren't in the first pass)**
+2. Are instructions thorough enough? **\(Most aren't very detailed on the first pass\)**
 3. Did they include images, diagrams, and relevant templates?
 4. Is text legible and are all images free of distortion/stretching?
-5. Is the document free of copyrighted materials? They are required to create materials they have designed but may pull in CC materials as needed. A significant portion (90%) of the project must be designed by the student.
+5. Is the document free of copyrighted materials? They are required to create materials they have designed but may pull in CC materials as needed. A significant portion \(90%\) of the project must be designed by the student.
 
-#### Parts Kit
+#### Kit of parts
+
 1. Did the student create a reconfigurable kit of parts? Can it be reconfigured into at least three things?
-2. Did the project rely on readily available or free materials?
-3. Was it a weapon? Ask them to redo the project, this violates project requirements.
+2. Did the project rely on readily available low cost or free materials?
+3. Was it a weapon? If so, ask them to rework the project concept, this violates project requirements.
 
 ### 2. Concept
+
 1. Did the project take an existing idea and add novel elements to it?
 2. Is the project accomplishable without special skills or training?
 3. Does the concept reference initial research and project pitch? Are project goals well articulated?
+
+
+
