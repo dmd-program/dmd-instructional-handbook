@@ -8,7 +8,7 @@ Students should be held accountable to following assignment directions, paying a
 
 ## Ritual Project
 
-Re-read the project brief. Some students do not pay attention to the brief, and stray from the requirements and constraints and it's important that they be held accountable as attention to detail is a vital skill. In DMD100, there are no expectations that students will have any prior creative software experience. They are expected to be able to use a computer, have the ability to navigate the web, and learn select software where directed. For the Ritual Project, students will be producing an interactive mockup with InvisionApp.com and some provided paper templates. Fortunately, this web application is very easy to learn and already has supporting tutorials. Beyond this tool, they will need to use unzipping tools and cropping tools that are included with their operating system.
+Re-read the project brief. Some students do not pay attention to the brief and tend to stray from the requirements and constraints.  It's important that they be held accountable  as attention to detail is a vital skill. In DMD100, there are no expectations that students will have any prior creative software experience. They are expected to be able to use a computer, have the ability to navigate the web, and learn select software where directed. For the Ritual Project, students will be producing an interactive mockup with InvisionApp.com and some provided paper templates. Fortunately, this web application is very easy to learn and already has supporting tutorials. Beyond this tool, they will need to use unzipping tools and cropping tools that are included with their operating system.
 
 ### 1. Technical
 
@@ -19,7 +19,7 @@ Re-read the project brief. Some students do not pay attention to the brief, and 
 * Can screens be merged together to simplify the app?
 * Does the app have all of the features it should to reinforce the student's ideas?
 * Did the student make enough of the screens operational? Does it feel complete?
-* Did the student make a high fidelity prototype instead of the low fidelity prototype that was asked for? If they've used Photoshop to produce rich graphics, they have gone a bit over what was asked.
+* Did the student make a high fidelity prototype instead of the low fidelity prototype that was asked for? If they've used Photoshop or a full prototyping package like Sketch or Figma to produce rich graphics, they have gone a bit over what was asked.
 
 ### 2. Conceptual
 
