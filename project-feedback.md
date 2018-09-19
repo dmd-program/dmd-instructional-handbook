@@ -19,7 +19,7 @@ Re-read the project brief. Some students do not pay attention to the brief and t
 * Can screens be merged together to simplify the app?
 * Does the app have all of the features it should to reinforce the student's ideas?
 * Did the student make enough of the screens operational? Does it feel complete?
-* Did the student make a high fidelity prototype instead of the low fidelity prototype that was asked for? If they've used Photoshop or a full prototyping package like Sketch or Figma to produce rich graphics, they have gone a bit over what was asked.
+* Did the student make a high fidelity prototype instead of the low fidelity prototype that was asked for? If they've used Photoshop or related tools to produce black and white wireframes, that is fine. If they have developed full color and typography, they went beyond what was asked.
 
 ### 2. Conceptual
 
