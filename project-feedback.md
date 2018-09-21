@@ -25,6 +25,8 @@ Re-read the project brief. Some students do not pay attention to the brief and t
 
 * Is the app a todo or calendar app? If so, ask the student to rework their concept, students were asked not to produce these types of ideas in the brief.
 * If the student is struggling, they can create an app that is inspired by the how might we question. This means, it does not have to be a literal response to the question, but perhaps an idea sparked by the question.
+* Are there moments in the work that seem successful or very novel and interesting?
+* Are there aspects that are entirely expected, problematic, redundant? What can be improved?
 
 ## Hypertext Narrative Project
 
