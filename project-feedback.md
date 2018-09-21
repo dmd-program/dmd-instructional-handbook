@@ -10,6 +10,8 @@ Students should be held accountable to following assignment directions, paying a
 
 Re-read the project brief. Some students do not pay attention to the brief and tend to stray from the requirements and constraints.  It's important that they be held accountable  as attention to detail is a vital skill. In DMD100, there are no expectations that students will have any prior creative software experience. They are expected to be able to use a computer, have the ability to navigate the web, and learn select software where directed. For the Ritual Project, students will be producing an interactive mockup with InvisionApp.com and some provided paper templates. Fortunately, this web application is very easy to learn and already has supporting tutorials. Beyond this tool, they will need to use unzipping tools and cropping tools that are included with their operating system.
 
+The following feedback should be provided to students during the **Develop** and **Deliver** part of the Ritual Project.
+
 ### 1. Technical
 
 * Are the "screens" straight, well lit, high enough resolution, and cropped to the correct aspect ratio?
