@@ -53,6 +53,7 @@ The following three categories should help with feedback provisioning, with some
    3. Is there character development from beginning to end?
    4. Are characters too flat, round, etc? Could two characters be merged or a contrast character added?
 3. Did the ending fall short? Is there something \(a joke, foreshadowing, etc.\) that you could set up earlier in the story to reference at the end?
+4. Was the story dramatic, or flat? If it's flat (no drama), are there obvious opportunities to increase drama? (A bigger obstacles to overcome?
 
 ### 3. Story concept
 
